@@ -8,7 +8,7 @@ export default function ProfileDevelopeur() {
           <p>
             Je suis Imajni Bilal, titulaire d'un Bac Professionnel Systèmes Numériques.<br />
             Actuellement, je suis en formation pour devenir intégrateur web chez OpenClassrooms,<br />
-            où j'acquiers des compétences approfondies en développement front-end, 
+            où j'acquiers des compétences approfondies en développement front-end  , 
           </p>
     
           <h2 >Formation</h2>
