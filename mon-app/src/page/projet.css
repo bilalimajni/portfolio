@@ -6,7 +6,7 @@
     transition-duration: 0.1s;
     cursor: pointer;
     box-sizing: border-box;
-    width: 80%;
+    width: 95%;
     display: flex;
     justify-content: center;
     height: 600px;
@@ -30,7 +30,7 @@
   cursor: pointer;
   box-sizing: border-box;
   justify-content: space-between;
-  height: 380px;
+  height: 400px;
   
 }
 .carte-item img{
@@ -56,8 +56,19 @@
 footer{
     margin-bottom: 50px;
 }
+.carte-item ul img {
+  width: 20;
+   height: 20px;
+}
+.blocTechno{
+  display: flex;
+    justify-content: space-between;
+}
+.carte-item ul  {
+  display: flex;
+}
 
-@media only screen and (max-width: 720px) {
+@media only screen and (max-width: 980px) {
   .carte{
     height: auto;
   }

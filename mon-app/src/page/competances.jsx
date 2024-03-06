@@ -16,7 +16,7 @@ import './competances.css';
 export default function Competences() {
   const competances = [
     {
-      image: javaScript, // Assuming you're using Webpack for module bundling
+      image: javaScript, 
       title: "Java script",
     },
     {

@@ -1,6 +1,7 @@
 .competances-icon{
-    width: 150px;
-  height: 150px;
+  height: 60px;
+  width: 60px;
+  object-fit: contain;
   margin-right: 30px;
 }
 #root{
@@ -27,4 +28,10 @@
   .competances{
     width: 80%;
   }
+  .competances img{
+    height: 60px;
+    width: 60px;
+    object-fit: cover;
+  }
+  
 }

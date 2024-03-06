@@ -12,6 +12,7 @@
 }
 .aproposDeMois p {
     font-style: italic;
+    text-align: center;
 }
 .aproposDeMois ul {
     font-style: italic;
