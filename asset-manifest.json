@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/mon-app/static/css/main.198e89a4.css",
-    "main.js": "/mon-app/static/js/main.c1a649e7.js",
-    "static/js/453.283dea91.chunk.js": "/mon-app/static/js/453.283dea91.chunk.js",
-    "static/media/kasa.png": "/mon-app/static/media/kasa.67c1ae5406ae59b1dfc2.png",
-    "static/media/sophie.png": "/mon-app/static/media/sophie.b7e2f3cda20340be26ce.png",
-    "static/media/image.png": "/mon-app/static/media/image.758bd478274bf9e15335.png",
-    "static/media/argentBank.png": "/mon-app/static/media/argentBank.04c6b07c0619e29d29b7.png",
-    "static/media/js.svg": "/mon-app/static/media/js.acc4642f682cd93a4c20a8a02c0cfa21.svg",
-    "index.html": "/mon-app/index.html",
-    "main.198e89a4.css.map": "/mon-app/static/css/main.198e89a4.css.map",
-    "main.c1a649e7.js.map": "/mon-app/static/js/main.c1a649e7.js.map",
-    "453.283dea91.chunk.js.map": "/mon-app/static/js/453.283dea91.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.198e89a4.css",
+    "main.js": "/portfolio/static/js/main.9855d65c.js",
+    "static/js/453.283dea91.chunk.js": "/portfolio/static/js/453.283dea91.chunk.js",
+    "static/media/kasa.png": "/portfolio/static/media/kasa.67c1ae5406ae59b1dfc2.png",
+    "static/media/sophie.png": "/portfolio/static/media/sophie.b7e2f3cda20340be26ce.png",
+    "static/media/image.png": "/portfolio/static/media/image.758bd478274bf9e15335.png",
+    "static/media/argentBank.png": "/portfolio/static/media/argentBank.04c6b07c0619e29d29b7.png",
+    "index.html": "/portfolio/index.html",
+    "static/media/js.svg": "/portfolio/static/media/js.acc4642f682cd93a4c20a8a02c0cfa21.svg",
+    "main.198e89a4.css.map": "/portfolio/static/css/main.198e89a4.css.map",
+    "main.9855d65c.js.map": "/portfolio/static/js/main.9855d65c.js.map",
+    "453.283dea91.chunk.js.map": "/portfolio/static/js/453.283dea91.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.198e89a4.css",
-    "static/js/main.c1a649e7.js"
+    "static/js/main.9855d65c.js"
   ]
 }
