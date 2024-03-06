@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/bilalimajni.github.io/mon-app/static/css/main.198e89a4.css",
-    "main.js": "/bilalimajni.github.io/mon-app/static/js/main.a849e3bc.js",
-    "static/js/453.283dea91.chunk.js": "/bilalimajni.github.io/mon-app/static/js/453.283dea91.chunk.js",
-    "static/media/kasa.png": "/bilalimajni.github.io/mon-app/static/media/kasa.67c1ae5406ae59b1dfc2.png",
-    "static/media/sophie.png": "/bilalimajni.github.io/mon-app/static/media/sophie.b7e2f3cda20340be26ce.png",
-    "static/media/image.png": "/bilalimajni.github.io/mon-app/static/media/image.758bd478274bf9e15335.png",
-    "static/media/argentBank.png": "/bilalimajni.github.io/mon-app/static/media/argentBank.04c6b07c0619e29d29b7.png",
-    "index.html": "/bilalimajni.github.io/mon-app/index.html",
-    "static/media/js.svg": "/bilalimajni.github.io/mon-app/static/media/js.acc4642f682cd93a4c20a8a02c0cfa21.svg",
-    "main.198e89a4.css.map": "/bilalimajni.github.io/mon-app/static/css/main.198e89a4.css.map",
-    "main.a849e3bc.js.map": "/bilalimajni.github.io/mon-app/static/js/main.a849e3bc.js.map",
-    "453.283dea91.chunk.js.map": "/bilalimajni.github.io/mon-app/static/js/453.283dea91.chunk.js.map"
+    "main.css": "/mon-app/static/css/main.198e89a4.css",
+    "main.js": "/mon-app/static/js/main.c1a649e7.js",
+    "static/js/453.283dea91.chunk.js": "/mon-app/static/js/453.283dea91.chunk.js",
+    "static/media/kasa.png": "/mon-app/static/media/kasa.67c1ae5406ae59b1dfc2.png",
+    "static/media/sophie.png": "/mon-app/static/media/sophie.b7e2f3cda20340be26ce.png",
+    "static/media/image.png": "/mon-app/static/media/image.758bd478274bf9e15335.png",
+    "static/media/argentBank.png": "/mon-app/static/media/argentBank.04c6b07c0619e29d29b7.png",
+    "static/media/js.svg": "/mon-app/static/media/js.acc4642f682cd93a4c20a8a02c0cfa21.svg",
+    "index.html": "/mon-app/index.html",
+    "main.198e89a4.css.map": "/mon-app/static/css/main.198e89a4.css.map",
+    "main.c1a649e7.js.map": "/mon-app/static/js/main.c1a649e7.js.map",
+    "453.283dea91.chunk.js.map": "/mon-app/static/js/453.283dea91.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.198e89a4.css",
-    "static/js/main.a849e3bc.js"
+    "static/js/main.c1a649e7.js"
   ]
 }
