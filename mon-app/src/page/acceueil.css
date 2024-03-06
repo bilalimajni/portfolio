@@ -5,6 +5,7 @@
   height: 100vh;
   justify-content: center;
   background: linear-gradient(to right, #C9C9C9, #FFF);
+  width: 100%;
 }
 
 .backgroundDark img{
